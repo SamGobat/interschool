@@ -1,2 +1,3 @@
 # interschool
-module ou l'on va faire un projet de groupe mdr
+module ou l'on va faire un projet de groupe feature
+
